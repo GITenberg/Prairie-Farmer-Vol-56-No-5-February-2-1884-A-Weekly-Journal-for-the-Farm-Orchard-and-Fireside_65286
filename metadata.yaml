@@ -1,5 +1,8 @@
 _repo: Prairie-Farmer-Vol-56-No-5-February-2-1884-A-Weekly-Journal-for-the-Farm-Orchard-and-Fireside_65286
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65286-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65286#Prairie-Farmer-Vol-56-No-5-February-2-1884-A-Weekly-Journal-for-the-Farm-Orchard-and-Fireside
 gutenberg_issued: '2021-05-08'
 gutenberg_type: Text
 identifiers:
